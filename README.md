@@ -63,19 +63,27 @@ Hi! I'm Don Livingston. I am a Professional Web & UI/UX Developer and Full-Stack
 ### Skills
 <div style="display: flex; flex-wrap: wrap; width: 100%">
   <div>
-  **Primary Skills**
-- HTML
-- CSS
-- JavaScript
-- UX/UI Development & Design
-- PHP
+    <h4><strong>Primary Skills<strong></h4>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>UX/UI Development & Design</li>
+      <li>PHP</li>
+    </ul>
   </div>
-<div>
-**UI Frameworks**
-- Bootstrap
-- Foundation
-- Material Design
-- Bulma
+  <div>
+  <h4><strong>UI Frameworks<strong></h4>
+  <ul>
+  <li>Bootstrap</li>
+  <li>Foundation</li>
+  <li>Material Design</li>
+  <li>Bulma</li>
+  </ul>
+
+
+
+
 </div>
 <div></div>
 <div></div>
