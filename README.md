@@ -1,9 +1,9 @@
 <img style="max-width: 150px" width="100" height="100" src="files/dl-logo-2022.png" />
 
 # Don Livingston
-## Web & UI/UX Developer, Digital Craftsman, Tech Enthusiast, Wise Guy
+## Web & UI/UX Developer, Digital Craftsman, and Tech Enthusiast
 
-Hi! I'm Don Livingston. I am a Professional Web & UI/UX Developer and Full-Stack Digital Craftsman with over 12 years of experience. I focus on producing clean, readable, maintainable code, as well as attractive and usable web designs. My personal aptitude is in balancing the "right-brained" creative concerns of User Interface Design with the "left-brained" logical and analytic discipline of Development.  
+Hi! I'm Don Livingston. I am a Professional Web & UI/UX Developer and Full-Stack Digital Craftsman with over 12 years of experience. I specialize in producing clean, readable, maintainable code, as well as attractive and usable web designs. My personal aptitude is in balancing the "right-brained" creative concerns of User Interface Design with the "left-brained" logical and analytic discipline of Development.  
 
 * 🌍  I'm based in New Jersey (NYC Metro Area)
 * 🖥️  See my portfolio at [DonaldLivingston.com](http://donaldlivingston.com)  
@@ -19,31 +19,25 @@ Hi! I'm Don Livingston. I am a Professional Web & UI/UX Developer and Full-Stack
 ### Skills  
 
 <p align="left"> 
-<span style="display: inline-flex; width: 36px; height: 36px; background-color: #000; border-radius: 50%; justify-content: center; align-items: center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  </a>
-  </span>
-     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-     <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-     <span style="display: inline-block; width: 36px; height: 36px; background-color: #fff;">
-     <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-     </span>
-     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-     <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a>
-     <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-     <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-     <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-     <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-     <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-     <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="files/icons/js.svg" width="42" height="42" alt="JavaScript" /></a>&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="files/icons/ts.svg" width="42" height="42" alt="TypeScript" /></a>&nbsp;
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="files/icons/php.svg" width="42" height="42" alt="PHP" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="files/icons/html.svg" width="42" height="42" alt="HTML5" /></a>&nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="files/icons/react.svg" width="42" height="42" alt="React" /></a>&nbsp;
+  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="files/icons/nextjs.svg" width="42" height="42" alt="NextJs" /></a>&nbsp;
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="files/icons/vue.svg" width="42" height="42" alt="Vue" /></a>&nbsp;
+  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="files/icons/nuxtjs.svg" width="42" height="42" alt="Nuxtjs" /></a>&nbsp;
+  <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="files/icons/angular.svg" width="42" height="42" alt="Angular" /></a>&nbsp;
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="files/icons/css.svg" width="42" height="42" alt="CSS3" /></a>&nbsp;
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="files/icons/sass.svg" width="42" height="42" alt="Sass" /></a>&nbsp;
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="files/icons/bootstrap.svg" width="42" height="42" alt="Bootstrap" /></a>&nbsp;
+  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="files/icons/webpack.svg" width="42" height="42" alt="Webpack" /></a>&nbsp;
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="files/icons/nodejs.svg" width="42" height="42" alt="NodeJS" /></a>&nbsp;
+  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="files/icons/photoshop.svg" width="42" height="42" alt="Photoshop" /></a>&nbsp;
+  <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="files/icons/illustrator.svg" width="42" height="42" alt="Illustrator" /></a>&nbsp;
+  <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="files/icons/xd.svg" width="42" height="42" alt="XD" /></a>&nbsp;
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="files/icons/figma.svg" width="42" height="42" alt="Figma" /></a>&nbsp;
+  <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="files/icons/sketch.svg" width="42" height="42" alt="Sketch" /></a>&nbsp;
 </p>
 
  ### Socials  
