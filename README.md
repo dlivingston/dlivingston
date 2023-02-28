@@ -1,4 +1,4 @@
-<img style="max-width: 150px" src="files/dl-logo-2022.png" />
+<img style="max-width: 150px" width="100" height="100" src="files/dl-logo-2022.png" />
 
 # Don Livingston
 ## Web & UI/UX Developer, Digital Craftsman, Tech Enthusiast, Wise Guy
