@@ -16,31 +16,45 @@ Hi! I'm Don Livingston. I am a Professional Web & UI/UX Developer and Full-Stack
   <img src="https://img.shields.io/twitch/status/donlivingston?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" />
 </a>
 
-### Skills  
+## Skills and Technologies
 
+### Front End
 <p align="left"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="files/icons/html.svg" width="42" height="42" alt="HTML5" /></a>&nbsp;
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="files/icons/css.svg" width="42" height="42" alt="CSS3" /></a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="files/icons/js.svg" width="42" height="42" alt="JavaScript" /></a>&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="files/icons/ts.svg" width="42" height="42" alt="TypeScript" /></a>&nbsp;
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="files/icons/php.svg" width="42" height="42" alt="PHP" /></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="files/icons/html.svg" width="42" height="42" alt="HTML5" /></a>&nbsp;
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="files/icons/sass.svg" width="42" height="42" alt="Sass" /></a>&nbsp;
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="files/icons/bootstrap.svg" width="42" height="42" alt="Bootstrap" /></a>&nbsp;
+  
+</p>
+
+### JS Frameworks
+<p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="files/icons/react.svg" width="42" height="42" alt="React" /></a>&nbsp;
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="files/icons/nextjs.svg" width="42" height="42" alt="NextJs" /></a>&nbsp;
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="files/icons/vue.svg" width="42" height="42" alt="Vue" /></a>&nbsp;
   <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="files/icons/nuxtjs.svg" width="42" height="42" alt="Nuxtjs" /></a>&nbsp;
   <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="files/icons/angular.svg" width="42" height="42" alt="Angular" /></a>&nbsp;
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="files/icons/css.svg" width="42" height="42" alt="CSS3" /></a>&nbsp;
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="files/icons/sass.svg" width="42" height="42" alt="Sass" /></a>&nbsp;
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="files/icons/bootstrap.svg" width="42" height="42" alt="Bootstrap" /></a>&nbsp;
-  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="files/icons/webpack.svg" width="42" height="42" alt="Webpack" /></a>&nbsp;
+</p> 
+
+### Back End
+<p align="left">
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="files/icons/nodejs.svg" width="42" height="42" alt="NodeJS" /></a>&nbsp;
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="files/icons/php.svg" width="42" height="42" alt="PHP" /></a>&nbsp;
+  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="files/icons/webpack.svg" width="42" height="42" alt="Webpack" /></a>&nbsp;
+</p> 
+
+### Design Tools
+<p align="left">
   <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="files/icons/photoshop.svg" width="42" height="42" alt="Photoshop" /></a>&nbsp;
-  <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="files/icons/illustrator.svg" width="42" height="42" alt="Illustrator" /></a>&nbsp;
+  <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="files/icons/illustrator.svg" width="42" height="42" alt="Illustrator" /></a>&nbsp;
   <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="files/icons/xd.svg" width="42" height="42" alt="XD" /></a>&nbsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="files/icons/figma.svg" width="42" height="42" alt="Figma" /></a>&nbsp;
   <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="files/icons/sketch.svg" width="42" height="42" alt="Sketch" /></a>&nbsp;
-</p>
+</p> 
 
- ### Socials  
+ ## Connect with Me! 👋 
  
  <p align="left">
   <a href="https://www.codepen.io/dlivingston" target="_blank" rel="noreferrer"><img src="files/icons/codepen.svg" width="32" height="32" /></a>&nbsp;
@@ -55,86 +69,6 @@ Hi! I'm Don Livingston. I am a Professional Web & UI/UX Developer and Full-Stack
   <a href="https://www.youtube.com/c/DonaldLivingston" target="_blank" rel="noreferrer"><img src="files/icons/youtube.svg" width="32" height="32" /></a>&nbsp;
   <a href="https://www.twitch.tv/donlivingston" target="_blank" rel="noreferrer"><img src="files/icons/twitch.svg" width="32" height="32" /></a>&nbsp;
 </p>
-
-### Skills
-<div style="display: flex; flex-wrap: wrap; width: 100%">
-  <div>
-    <h4><strong>Primary Skills<strong></h4>
-    <ul>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>JavaScript</li>
-      <li>UX/UI Development & Design</li>
-      <li>PHP</li>
-    </ul>
-  </div>
-  <div>
-  <h4><strong>UI Frameworks<strong></h4>
-  <ul>
-  <li>Bootstrap</li>
-  <li>Foundation</li>
-  <li>Material Design</li>
-  <li>Bulma</li>
-  </ul>
-
-
-
-
-</div>
-<div></div>
-<div></div>
-</div>
-
-**Primary Skills**
-- HTML
-- CSS
-- JavaScript
-- UX/UI Development & Design
-- PHP
-
-**UI Frameworks**
-- Bootstrap
-- Foundation
-- Material Design
-- Bulma
-
-**HTML Templating**
-- Twig
-- Handlebars
-- Nunjucks
-
-**CSS Techniques**
-- Preprocessors (SASS/SCSS/LESS)
-- Animations & Keyframes
-- Variables & Custom Properties
-
-**JS Libraries & Frameworks**
-- Angular
-- React
-- Vue
-- Node.js
-- jQuery
-
-**Development & Build Tools**
-- Webpack
-- Babel
-- Browserify
-- NPM
-- Gulp
-- Grunt
-- Docker
-- VS Code
-
-**Design Apps**
-- Adobe Photoshop
-- Adobe Illustrator
-- Adobe XD
-- Sketch
-- inVision
-- Figma
-
-### Contact
-[@Don_Livingston](https://twitter.com/Don_Livingston)
 
 
 <!---
