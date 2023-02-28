@@ -8,6 +8,8 @@ Hi! I'm Don Livingston. I am a Professional Web & UI/UX Developer and Full-Stack
 * 🌍  I'm based in New Jersey (NYC Metro Area)
 * 🖥️  See my portfolio at [DonaldLivingston.com](http://donaldlivingston.com)  
 * 🧠  I'm learning Everything JavaScript  
+* 🤝  I'm open to collaborating on interesting projects
+* ⚡   Fun Fact: Whenever I eat Cheetos, I use chopsticks so I don't get cheese dust on my fingers (and everywhere else 😉)
 
 <a href="https://www.twitter.com/Don_Livingston" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/twitter/follow/Don_Livingston?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
@@ -43,6 +45,8 @@ Hi! I'm Don Livingston. I am a Professional Web & UI/UX Developer and Full-Stack
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="files/icons/nodejs.svg" width="42" height="42" alt="NodeJS" /></a>&nbsp;
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="files/icons/php.svg" width="42" height="42" alt="PHP" /></a>&nbsp;
   <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="files/icons/webpack.svg" width="42" height="42" alt="Webpack" /></a>&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="files/icons/git.svg" width="42" height="42" alt="Git" /></a>&nbsp;
+  
 </p> 
 
 ### Design Tools
@@ -57,17 +61,19 @@ Hi! I'm Don Livingston. I am a Professional Web & UI/UX Developer and Full-Stack
  ## Connect with Me! 👋 
  
  <p align="left">
-  <a href="https://www.codepen.io/dlivingston" target="_blank" rel="noreferrer"><img src="files/icons/codepen.svg" width="32" height="32" /></a>&nbsp;
-  <a href="https://www.dev.to/dlivingston" target="_blank" rel="noreferrer"><img src="files/icons/dev.svg" width="32" height="32" /></a>&nbsp;
-  <a href="https://www.github.com/dlivingston" target="_blank" rel="noreferrer"><img src="files/icons/github.svg" width="32" height="32" /></a>&nbsp;
-  <a href="https://donlivingston.hashnode.dev" target="_blank" rel="noreferrer"><img src="files/icons/hashnode.svg" width="32" height="32" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/donaldlivingston/" target="_blank" rel="noreferrer"><img src="files/icons/linkedin.svg" width="32" height="32" /></a>&nbsp;
-  <a href="http://www.medium.com/@donlivingston" target="_blank" rel="noreferrer"><img src="files/icons/medium.svg" width="32" height="32" /></a>&nbsp;
-  <a href="https://donlivingston.me" target="_blank" rel="noreferrer"><img src="files/icons/rss.svg" width="32" height="32" /></a>&nbsp;
-  <a href="https://www.stackoverflow.com/users/4312957/donald-livingston" target="_blank" rel="noreferrer"><img src="files/icons/stackoverflow.svg" width="32" height="32" /></a>&nbsp;
-  <a href="https://www.twitter.com/Don_Livingston" target="_blank" rel="noreferrer"><img src="files/icons/twitter.svg" width="32" height="32" /></a>&nbsp;
-  <a href="https://www.youtube.com/c/DonaldLivingston" target="_blank" rel="noreferrer"><img src="files/icons/youtube.svg" width="32" height="32" /></a>&nbsp;
-  <a href="https://www.twitch.tv/donlivingston" target="_blank" rel="noreferrer"><img src="files/icons/twitch.svg" width="32" height="32" /></a>&nbsp;
+  <a href="https://www.codepen.io/dlivingston" target="_blank" rel="noreferrer"><img src="files/icons/codepen.svg" width="32" height="32" alt="Codepen" /></a>&nbsp;
+  <a href="https://www.dev.to/dlivingston" target="_blank" rel="noreferrer"><img src="files/icons/dev.svg" width="32" height="32" alt="Dev.to" /></a>&nbsp;
+  <a href="https://www.github.com/dlivingston" target="_blank" rel="noreferrer"><img src="files/icons/github.svg" width="32" height="32" alt="GitHub" /></a>&nbsp;
+  <a href="https://donlivingston.hashnode.dev" target="_blank" rel="noreferrer"><img src="files/icons/hashnode.svg" width="32" height="32" alt="Hashnode" /></a>&nbsp;
+  <a href="https://www.instagram.com/donlivingston/" target="_blank" rel="noreferrer"><img src="files/icons/instagram.svg" width="32" height="32" alt="Instagram" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/donaldlivingston/" target="_blank" rel="noreferrer"><img src="files/icons/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>&nbsp;
+  <a href="http://www.medium.com/@donlivingston" target="_blank" rel="noreferrer"><img src="files/icons/medium.svg" width="32" height="32" alt="Medium" /></a>&nbsp;
+  <a href="https://donlivingston.me" target="_blank" rel="noreferrer"><img src="files/icons/rss.svg" width="32" height="32" alt="RSS" /></a>&nbsp;
+  <a href="https://www.stackoverflow.com/users/4312957/donald-livingston" target="_blank" rel="noreferrer"><img src="files/icons/stackoverflow.svg" width="32" height="32" alt="Stackoverflow" /></a>&nbsp;
+  <a href="https://www.twitter.com/Don_Livingston" target="_blank" rel="noreferrer"><img src="files/icons/twitter.svg" width="32" height="32" alt="Twitter" /></a>&nbsp;
+  <a href="https://www.twitch.tv/donlivingston" target="_blank" rel="noreferrer"><img src="files/icons/twitch.svg" width="32" height="32" alt="Twitch" /></a>&nbsp;
+  <a href="https://www.youtube.com/c/DonaldLivingston" target="_blank" rel="noreferrer"><img src="files/icons/youtube.svg" width="32" height="32" alt="YouTube" /></a>&nbsp;
+  
 </p>
 
 
