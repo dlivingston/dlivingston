@@ -61,6 +61,7 @@ Hi! I'm Don Livingston. I am a Professional Web & UI/UX Developer and Full-Stack
  ## Connect with Me! 👋 
  
  <p align="left">
+  <a href="https://donlivingston.me" target="_blank" rel="noreferrer"><img src="files/icons/dl-logo-light.svg" width="32" height="32" alt="DonLivingston.me" /></a>&nbsp;
   <a href="https://www.codepen.io/dlivingston" target="_blank" rel="noreferrer"><img src="files/icons/codepen.svg" width="32" height="32" alt="Codepen" /></a>&nbsp;
   <a href="https://www.dev.to/dlivingston" target="_blank" rel="noreferrer"><img src="files/icons/dev.svg" width="32" height="32" alt="Dev.to" /></a>&nbsp;
   <a href="https://www.github.com/dlivingston" target="_blank" rel="noreferrer"><img src="files/icons/github.svg" width="32" height="32" alt="GitHub" /></a>&nbsp;
