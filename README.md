@@ -2,7 +2,7 @@
 
 <h1><img style="max-width: 50px; vertical-align: middle;" width="50" height="50" src="files/dl-logo-2022.png" alt="DL Logo" />&nbsp; Don Livingston </h1>
 
-**Web & UI/UX Developer • Digital Craftsman • Tech Enthusiast • AWS Community Builder**
+**Web & UI/UX Developer • Digital Craftsman • Tech Enthusiast • Dad-Joke Aficionado**
 
 Hi! I'm Don Livingston. I am a Professional Web & UI/UX Developer and Full-Stack Digital Craftsman with over 12 years of experience. I specialize in producing clean, readable, maintainable code, as well as attractive and usable web designs. My personal aptitude is in balancing the "right-brained" creative concerns of User Interface Design with the "left-brained" logical and analytic discipline of Development.  
 
