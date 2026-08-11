@@ -6,7 +6,7 @@
 
 Hi! I'm Don Livingston. I am a Professional Web & UI/UX Developer and Full-Stack Digital Craftsman with over 12 years of experience. I specialize in producing clean, readable, maintainable code, as well as attractive and usable web designs. My personal aptitude is in balancing the "right-brained" creative concerns of User Interface Design with the "left-brained" logical and analytic discipline of Development.  
 
-* 🌍  I'm based in Eastern Pennsylvania (Greater Philadelphia Metro Area)
+* 🌍  I'm based in Utah (Salt Lake City Metropolitan Area)
 * 🖥️  See my portfolio at [DonaldLivingston.com](http://donaldlivingston.com)  
 * 🧠  I'm learning Everything JavaScript  
 * 🤝  I'm open to collaborating on interesting projects
